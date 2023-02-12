@@ -1,11 +1,14 @@
-# chemist
 
-<h2> Chemical website is created </h2>
+
+<h2> Chemical website was created </h2>
+
 <p> Created with HTML CSS JS </p>
 
- ![](screen1.gif)
+<p> Responsive structure </p>
 
- ![](screen2.gif)
+ ![](screen.gif)
+
+ 
      
 
 
